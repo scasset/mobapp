@@ -1,0 +1,17 @@
+meteor remove ecmascript
+meteor remove blaze-html-templates
+meteor add angular
+meteor add driftyco:ionic
+meteor add momentjs:moment
+meteor add fourseven:scss
+meteor add jasonaibrahim:angular-moment
+meteor add check
+meteor update
+meteor reset
+meteor remove insecure
+meteor remove autopublish
+meteor add reywood:publish-composite
+meteor add okland:camera-ui
+meteor add typ-accounts-ldap
+ 
+ 
